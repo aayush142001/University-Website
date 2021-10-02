@@ -14,13 +14,13 @@
 } */
 #myBtn{
     position: fixed;
-    bottom: 67px;
-    right: 13px;
+    bottom: 69px;
+    right: 14px;
     z-index: 99;
-    font-size: 18px;
+    font-size: 20px;
     border: none;
     outline: none;
-    background-color: rgb(231, 171, 97);
+    background-color: rgb(232, 172, 96);
     color: white;
     cursor: pointer;
     padding: 11px;
